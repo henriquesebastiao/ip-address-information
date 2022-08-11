@@ -40,4 +40,4 @@ Informe o endereco IP que deseja buscar: 8.8.8.8
 
 {'ip_address': '8.8.8.8', 'city': None, 'city_geoname_id': None, 'region': None, 'region_iso_code': None, 'region_geoname_id': None, 'postal_code': None, 'country': 'United States', 'country_code': 'US', 'country_geoname_id': 6252001, 'country_is_eu': False, 'continent': 'North America', 'continent_code': 'NA', 'continent_geoname_id': 6255149, 'longitude': -97.822, 'latitude': 37.751, 'security': {'is_vpn': False}, 'timezone': {'name': 'America/Chicago', 'abbreviation': 'CDT', 'gmt_offset': -5, 'current_time': '07:01:18', 'is_dst': True}, 'flag': {'emoji': '🇺🇸', 'unicode': 'U+1F1FA U+1F1F8', 'png': 'https://static.abstractapi.com/country-flags/US_flag.png', 'svg': 'https://static.abstractapi.com/country-flags/US_flag.svg'}, 'currency': {'currency_name': 'USD', 'currency_code': 'USD'}, 'connection': {'autonomous_system_number': 15169, 'autonomous_system_organization': 'GOOGLE', 'connection_type': 'Corporate', 'isp_name': 'Google LLC', 'organization_name': 'Level 3'}}
 ```
-A
+Aí é só analisar quais informações você obteve.
