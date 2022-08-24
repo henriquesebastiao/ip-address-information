@@ -55,12 +55,19 @@ Informe o endereco IP que deseja buscar: 8.8.8.8
 'longitude': -97.822,
 'latitude': 37.751,
 'security': {'is_vpn': False},
-'timezone': {'name': 'America/Chicago',
+'timezone': {'name': 'America/Chicago'},
 'abbreviation': 'CDT',
 'gmt_offset': -5,
 'current_time': '07:01:18', 'is_dst': True},
-'flag': {'emoji': '🇺🇸', 'unicode': 'U+1F1FA U+1F1F8', 'png': 'https://static.abstractapi.com/country-flags/US_flag.png', 'svg': 'https://static.abstractapi.com/country-flags/US_flag.svg'},
+'flag': {'emoji': '🇺🇸'},
+'unicode': 'U+1F1FA U+1F1F8',
+'png': 'https://static.abstractapi.com/country-flags/US_flag.png',
+'svg': 'https://static.abstractapi.com/country-flags/US_flag.svg'},
 'currency': {'currency_name': 'USD', 'currency_code': 'USD'},
-'connection': {'autonomous_system_number': 15169, 'autonomous_system_organization': 'GOOGLE', 'connection_type': 'Corporate', 'isp_name': 'Google LLC', 'organization_name': 'Level 3'}}
+'connection': {'autonomous_system_number': 15169},
+'autonomous_system_organization': 'GOOGLE',
+'connection_type': 'Corporate',
+'isp_name': 'Google LLC',
+'organization_name': {{'Level 3'}}
 ```
-Aí é só analisar quais informações você obteve.
+Aí é só analisar as informações que você obteu.
